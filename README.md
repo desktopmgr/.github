@@ -1,10 +1,4 @@
-<h1 align=center>
-👋 Welcome to .github 👋
-</h1>
-<p align=center>
-StartDocumentationHere
-</p>
+## 👋 Welcome to desktopmgr repo 👋  
   
-## Author  
-
-👤 **Jason Hempstead**  
+These configurations were created and tested on Archlinux  
+and may or may not work with other distros.  
